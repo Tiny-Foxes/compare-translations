@@ -1,0 +1,9 @@
+{
+  "setup": {
+    "installAt": null,
+    "installSpecific": {
+      "German": "Program/",
+      "README": null
+    }
+  }
+}
