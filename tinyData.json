@@ -3,7 +3,8 @@
     "installAt": null,
     "installSpecific": {
       "German": "Program/",
-      "README": null
+      "README.md": null,
+      "tinyData.json": null
     }
   }
 }
